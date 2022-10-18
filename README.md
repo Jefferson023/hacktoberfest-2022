@@ -1,7 +1,7 @@
 # hacktoberfest-2022
 
 ## Como participar? 
-Entre no site https://hacktoberfest.com/ e cadastre a sua conta do Github. Depois disso, faça 4 pull request para esse mesmo repositório resolvendo quaisquer problemas que vocês queiram. Irei deixar algumas sugestões logo abaixo. 
+Entre no site https://hacktoberfest.com/ e cadastre a sua conta do Github. Depois disso, faça 4 pull request para esse mesmo repositório adicionando a label hacktoberfest-accepted no PR e resolvendo quaisquer problemas que vocês queiram. Irei deixar algumas sugestões logo abaixo. 
 
 ## Problemas
 1. Faça um algoritmo que leia três notas de um aluno, calcule e escreva a média final deste aluno.
