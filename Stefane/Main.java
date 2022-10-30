@@ -6,7 +6,13 @@ public class Main {
         question1.render();  
     }
 
+    public static void TestQuestionTwo(){
+        Question2 question2 = new Question2(41, 2500.00);
+        question2.render();
+    }
+
     public static void main(String[] args) {
         TestQuestionOne();
+        TestQuestionTwo();
     }
 }
